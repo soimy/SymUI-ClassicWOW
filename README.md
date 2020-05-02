@@ -3,6 +3,18 @@
 魔兽怀旧服-极简战士UI SymUI
 World of Warcraft Classic UI sets for warriors
 
+## 食用方法
+
+- 根据插件列表安装插件（推荐使用桃乐豆）
+- 推荐必装插件如下
+  - Weakauras
+  - RUF Unitframe
+  - Vuhdo
+  - Bartender4
+  - AtlasLootClassic
+- 将目录中的`WTF\Account\YourUserName\SavedVariables`下的配置文件复制到魔兽客户端相应的目录中，记得`YourUserName`替换成你自己的账户名
+- 将`Fonts`覆盖客户端中的相应目录
+
 ## 插件清单
 
 ```
