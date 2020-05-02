@@ -1,11 +1,3 @@
-# SymUI-ClassicWOW
-
-魔兽怀旧服-极简战士UI SymUI
-World of Warcraft Classic UI sets for warriors
-
-## 插件清单
-
-```
 !KalielsTracker     // 任务追踪插件 
 Atlas               // Atlas副本信息,任务及拾取系列
 Atlas_Battlegrounds
@@ -44,4 +36,4 @@ TipTac              // 鼠标指向信息优化插件 强烈推荐
 TrufiGCD            // 战斗技能使用记录
 VuhDo               // 团队/小队框架 强烈推荐
 WeakAuras           // 略……
-```
+

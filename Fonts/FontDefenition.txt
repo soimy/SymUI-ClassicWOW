@@ -1,0 +1,5 @@
+ARKai_T.ttf	    //主界面字体
+ARIALN.ttf      //各类数字字体
+ARHei.ttf	    //聊天字体
+ARKai_C.ttf	    //任务窗口字体？数字字体
+FRIZQT__.ttf    //伤害数字字体
