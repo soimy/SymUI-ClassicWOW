@@ -13,7 +13,7 @@ World of Warcraft Classic UI sets for warriors
   - Bartender4
   - AtlasLootClassic
 - 将目录中的`WTF\Account\YourUserName\SavedVariables`下的配置文件复制到魔兽客户端相应的目录中，记得`YourUserName`替换成你自己的账户名
-- 将`Fonts`覆盖客户端中的相应目录
+- ~~将`Fonts`覆盖客户端中的相应目录~~ 代码库中的字体库因为Git LFS流量用尽的关系已经移除，需要的兄弟请移步百度网盘: https://pan.baidu.com/s/1U1Ax0sUQqC4tkamJQLIqkA 提取码: j4b9
 
 ## 插件清单
 
